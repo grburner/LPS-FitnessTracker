@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "test": "npm run lint",
     "start": "node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
