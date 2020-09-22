@@ -13,9 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^4.19.1",
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1",
-    "eslint": "^4.19.1"
+    "watchman": "^1.0.0"
   }
 }
